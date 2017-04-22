@@ -1,0 +1,8 @@
+gtfsConfig:
+	mongoUrl: "mongodb://localhost:27017/gtfs"
+	agencies: [
+		{
+			agency_key: "openov"
+			path: "./gtfs-data"
+		}
+	]

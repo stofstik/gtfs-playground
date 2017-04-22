@@ -1,0 +1,1574 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.10614,
+            52.08923
+          ],
+          [
+            5.10614,
+            52.08923
+          ],
+          [
+            5.10622,
+            52.08927
+          ],
+          [
+            5.1065,
+            52.08935
+          ],
+          [
+            5.10665,
+            52.08941
+          ],
+          [
+            5.10669,
+            52.08944
+          ],
+          [
+            5.10669,
+            52.08946
+          ],
+          [
+            5.10666,
+            52.08949
+          ],
+          [
+            5.10663,
+            52.08953
+          ],
+          [
+            5.10657,
+            52.08959
+          ],
+          [
+            5.10653,
+            52.08964
+          ],
+          [
+            5.10648,
+            52.08968
+          ],
+          [
+            5.10645,
+            52.08973
+          ],
+          [
+            5.10642,
+            52.08977
+          ],
+          [
+            5.10657,
+            52.08982
+          ],
+          [
+            5.1067,
+            52.08986
+          ],
+          [
+            5.10682,
+            52.08994
+          ],
+          [
+            5.10686,
+            52.08999
+          ],
+          [
+            5.10692,
+            52.09005
+          ],
+          [
+            5.10696,
+            52.09018
+          ],
+          [
+            5.10695,
+            52.09023
+          ],
+          [
+            5.1069,
+            52.09031
+          ],
+          [
+            5.1068,
+            52.09043
+          ],
+          [
+            5.10671,
+            52.09052
+          ],
+          [
+            5.10659,
+            52.09066
+          ],
+          [
+            5.10646,
+            52.09079
+          ],
+          [
+            5.10615,
+            52.09119
+          ],
+          [
+            5.10609,
+            52.09135
+          ],
+          [
+            5.10609,
+            52.09151
+          ],
+          [
+            5.10616,
+            52.09172
+          ],
+          [
+            5.10622,
+            52.09176
+          ],
+          [
+            5.10625,
+            52.09181
+          ],
+          [
+            5.10635,
+            52.09186
+          ],
+          [
+            5.1064,
+            52.09188
+          ],
+          [
+            5.10651,
+            52.09191
+          ],
+          [
+            5.10715,
+            52.09213
+          ],
+          [
+            5.10727,
+            52.09216
+          ],
+          [
+            5.10838,
+            52.09251
+          ],
+          [
+            5.10858,
+            52.09257
+          ],
+          [
+            5.10874,
+            52.09261
+          ],
+          [
+            5.10889,
+            52.09261
+          ],
+          [
+            5.10903,
+            52.09258
+          ],
+          [
+            5.10915,
+            52.09255
+          ],
+          [
+            5.10933,
+            52.09241
+          ],
+          [
+            5.10937,
+            52.0922
+          ],
+          [
+            5.10946,
+            52.09219
+          ],
+          [
+            5.10946,
+            52.09219
+          ],
+          [
+            5.10963,
+            52.09215
+          ],
+          [
+            5.10978,
+            52.09211
+          ],
+          [
+            5.10994,
+            52.09208
+          ],
+          [
+            5.11004,
+            52.0921
+          ],
+          [
+            5.1101,
+            52.0921
+          ],
+          [
+            5.11044,
+            52.09217
+          ],
+          [
+            5.11122,
+            52.09246
+          ],
+          [
+            5.11125,
+            52.09251
+          ],
+          [
+            5.11125,
+            52.09263
+          ],
+          [
+            5.11129,
+            52.09279
+          ],
+          [
+            5.11131,
+            52.09282
+          ],
+          [
+            5.11135,
+            52.09287
+          ],
+          [
+            5.11145,
+            52.09288
+          ],
+          [
+            5.11161,
+            52.09288
+          ],
+          [
+            5.11196,
+            52.09285
+          ],
+          [
+            5.11211,
+            52.09283
+          ],
+          [
+            5.11214,
+            52.09283
+          ],
+          [
+            5.11253,
+            52.0929
+          ],
+          [
+            5.11299,
+            52.09294
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.11299,
+            52.09294
+          ],
+          [
+            5.11339,
+            52.093
+          ],
+          [
+            5.11345,
+            52.093
+          ],
+          [
+            5.11351,
+            52.09301
+          ],
+          [
+            5.11441,
+            52.09306
+          ],
+          [
+            5.11458,
+            52.0931
+          ],
+          [
+            5.11466,
+            52.09311
+          ],
+          [
+            5.11472,
+            52.09312
+          ],
+          [
+            5.11579,
+            52.09325
+          ],
+          [
+            5.1166,
+            52.09336
+          ],
+          [
+            5.11672,
+            52.09338
+          ],
+          [
+            5.11691,
+            52.09342
+          ],
+          [
+            5.117,
+            52.09344
+          ],
+          [
+            5.11707,
+            52.09345
+          ],
+          [
+            5.11781,
+            52.0935
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.11781,
+            52.0935
+          ],
+          [
+            5.11816,
+            52.09355
+          ],
+          [
+            5.11842,
+            52.09357
+          ],
+          [
+            5.1188,
+            52.09359
+          ],
+          [
+            5.11899,
+            52.09358
+          ],
+          [
+            5.11943,
+            52.09353
+          ],
+          [
+            5.11959,
+            52.09352
+          ],
+          [
+            5.12054,
+            52.09338
+          ],
+          [
+            5.12083,
+            52.09334
+          ],
+          [
+            5.12129,
+            52.09313
+          ],
+          [
+            5.12139,
+            52.09311
+          ],
+          [
+            5.12158,
+            52.0931
+          ],
+          [
+            5.12215,
+            52.09313
+          ],
+          [
+            5.12228,
+            52.09313
+          ],
+          [
+            5.12278,
+            52.09316
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12278,
+            52.09316
+          ],
+          [
+            5.12295,
+            52.09317
+          ],
+          [
+            5.12305,
+            52.09319
+          ],
+          [
+            5.12315,
+            52.0932
+          ],
+          [
+            5.12327,
+            52.09318
+          ],
+          [
+            5.12451,
+            52.09307
+          ],
+          [
+            5.12457,
+            52.09307
+          ],
+          [
+            5.12524,
+            52.09301
+          ],
+          [
+            5.12548,
+            52.09299
+          ],
+          [
+            5.12635,
+            52.09292
+          ],
+          [
+            5.1265,
+            52.09289
+          ],
+          [
+            5.12663,
+            52.09285
+          ],
+          [
+            5.12702,
+            52.09281
+          ],
+          [
+            5.12723,
+            52.0928
+          ],
+          [
+            5.12726,
+            52.0928
+          ],
+          [
+            5.12759,
+            52.09277
+          ],
+          [
+            5.12784,
+            52.0928
+          ],
+          [
+            5.12778,
+            52.09274
+          ],
+          [
+            5.12752,
+            52.09255
+          ],
+          [
+            5.12743,
+            52.09246
+          ],
+          [
+            5.12739,
+            52.09237
+          ],
+          [
+            5.12741,
+            52.09224
+          ],
+          [
+            5.12756,
+            52.09176
+          ],
+          [
+            5.12756,
+            52.09175
+          ],
+          [
+            5.1276,
+            52.09165
+          ],
+          [
+            5.128,
+            52.09059
+          ],
+          [
+            5.12816,
+            52.09035
+          ],
+          [
+            5.12838,
+            52.09025
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12838,
+            52.09025
+          ],
+          [
+            5.12845,
+            52.09022
+          ],
+          [
+            5.12984,
+            52.08956
+          ],
+          [
+            5.13012,
+            52.08937
+          ],
+          [
+            5.12964,
+            52.08891
+          ],
+          [
+            5.12944,
+            52.08872
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12944,
+            52.08872
+          ],
+          [
+            5.12922,
+            52.0885
+          ],
+          [
+            5.12902,
+            52.08815
+          ],
+          [
+            5.12899,
+            52.088
+          ],
+          [
+            5.12914,
+            52.08726
+          ],
+          [
+            5.12935,
+            52.08664
+          ],
+          [
+            5.12945,
+            52.08641
+          ],
+          [
+            5.12962,
+            52.08612
+          ],
+          [
+            5.13017,
+            52.08549
+          ],
+          [
+            5.13015,
+            52.08538
+          ],
+          [
+            5.13009,
+            52.08526
+          ],
+          [
+            5.13002,
+            52.08517
+          ],
+          [
+            5.12988,
+            52.08509
+          ],
+          [
+            5.12956,
+            52.0849
+          ],
+          [
+            5.12954,
+            52.08488
+          ],
+          [
+            5.12913,
+            52.08467
+          ],
+          [
+            5.12863,
+            52.08439
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12863,
+            52.08439
+          ],
+          [
+            5.12843,
+            52.08428
+          ],
+          [
+            5.12837,
+            52.08431
+          ],
+          [
+            5.12801,
+            52.08456
+          ],
+          [
+            5.12786,
+            52.08469
+          ],
+          [
+            5.1278,
+            52.08466
+          ],
+          [
+            5.12764,
+            52.08461
+          ],
+          [
+            5.12755,
+            52.0846
+          ],
+          [
+            5.12716,
+            52.08442
+          ],
+          [
+            5.12637,
+            52.08408
+          ],
+          [
+            5.12544,
+            52.08369
+          ],
+          [
+            5.12485,
+            52.08351
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12485,
+            52.08351
+          ],
+          [
+            5.12453,
+            52.08342
+          ],
+          [
+            5.12437,
+            52.08337
+          ],
+          [
+            5.12454,
+            52.08316
+          ],
+          [
+            5.12489,
+            52.08276
+          ],
+          [
+            5.12551,
+            52.08253
+          ],
+          [
+            5.12538,
+            52.08242
+          ],
+          [
+            5.12522,
+            52.08229
+          ],
+          [
+            5.12469,
+            52.08206
+          ],
+          [
+            5.12405,
+            52.08188
+          ],
+          [
+            5.12392,
+            52.08185
+          ],
+          [
+            5.12404,
+            52.08164
+          ],
+          [
+            5.12405,
+            52.08164
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12405,
+            52.08164
+          ],
+          [
+            5.1241,
+            52.08155
+          ],
+          [
+            5.12411,
+            52.08153
+          ],
+          [
+            5.1242,
+            52.08136
+          ],
+          [
+            5.12422,
+            52.08135
+          ],
+          [
+            5.12428,
+            52.08125
+          ],
+          [
+            5.12423,
+            52.08119
+          ],
+          [
+            5.12409,
+            52.08099
+          ],
+          [
+            5.124,
+            52.08096
+          ],
+          [
+            5.12391,
+            52.08093
+          ],
+          [
+            5.12371,
+            52.08097
+          ],
+          [
+            5.12362,
+            52.08098
+          ],
+          [
+            5.12346,
+            52.08098
+          ],
+          [
+            5.12324,
+            52.08098
+          ],
+          [
+            5.12308,
+            52.08096
+          ],
+          [
+            5.12266,
+            52.08079
+          ],
+          [
+            5.12225,
+            52.08062
+          ],
+          [
+            5.12205,
+            52.08049
+          ],
+          [
+            5.12199,
+            52.08047
+          ],
+          [
+            5.12179,
+            52.08035
+          ],
+          [
+            5.1217,
+            52.0803
+          ],
+          [
+            5.12164,
+            52.08025
+          ],
+          [
+            5.1216,
+            52.08022
+          ],
+          [
+            5.12155,
+            52.08012
+          ],
+          [
+            5.12122,
+            52.0798
+          ],
+          [
+            5.121,
+            52.0796
+          ],
+          [
+            5.12093,
+            52.07952
+          ],
+          [
+            5.12042,
+            52.07905
+          ],
+          [
+            5.12023,
+            52.07888
+          ],
+          [
+            5.12019,
+            52.07886
+          ],
+          [
+            5.12016,
+            52.07881
+          ],
+          [
+            5.11997,
+            52.07889
+          ],
+          [
+            5.11996,
+            52.07889
+          ],
+          [
+            5.11971,
+            52.079
+          ],
+          [
+            5.11914,
+            52.07922
+          ],
+          [
+            5.11902,
+            52.07928
+          ],
+          [
+            5.1188,
+            52.07934
+          ],
+          [
+            5.11877,
+            52.07936
+          ],
+          [
+            5.11877,
+            52.07937
+          ],
+          [
+            5.11877,
+            52.07939
+          ],
+          [
+            5.1188,
+            52.07963
+          ],
+          [
+            5.1188,
+            52.07964
+          ],
+          [
+            5.11865,
+            52.07998
+          ],
+          [
+            5.11856,
+            52.08002
+          ],
+          [
+            5.11691,
+            52.081
+          ],
+          [
+            5.11584,
+            52.08185
+          ],
+          [
+            5.11512,
+            52.08255
+          ],
+          [
+            5.11287,
+            52.08494
+          ],
+          [
+            5.11277,
+            52.08514
+          ],
+          [
+            5.11167,
+            52.08633
+          ],
+          [
+            5.11149,
+            52.08648
+          ],
+          [
+            5.11143,
+            52.08654
+          ],
+          [
+            5.11067,
+            52.08723
+          ],
+          [
+            5.11036,
+            52.08733
+          ],
+          [
+            5.11017,
+            52.08737
+          ],
+          [
+            5.11006,
+            52.08741
+          ],
+          [
+            5.10998,
+            52.08741
+          ],
+          [
+            5.1096,
+            52.08783
+          ],
+          [
+            5.10924,
+            52.08821
+          ],
+          [
+            5.10922,
+            52.08823
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.10922,
+            52.08823
+          ],
+          [
+            5.10899,
+            52.08854
+          ],
+          [
+            5.10896,
+            52.08858
+          ],
+          [
+            5.1089,
+            52.08858
+          ],
+          [
+            5.10853,
+            52.08897
+          ],
+          [
+            5.10819,
+            52.08931
+          ],
+          [
+            5.10809,
+            52.08936
+          ],
+          [
+            5.108,
+            52.08936
+          ],
+          [
+            5.10789,
+            52.08934
+          ],
+          [
+            5.10786,
+            52.08934
+          ],
+          [
+            5.10783,
+            52.08935
+          ],
+          [
+            5.1078,
+            52.08936
+          ],
+          [
+            5.10771,
+            52.0894
+          ],
+          [
+            5.10736,
+            52.08981
+          ],
+          [
+            5.10727,
+            52.08988
+          ],
+          [
+            5.10701,
+            52.08996
+          ],
+          [
+            5.10686,
+            52.08999
+          ],
+          [
+            5.10677,
+            52.08999
+          ],
+          [
+            5.10667,
+            52.08991
+          ],
+          [
+            5.10654,
+            52.08986
+          ],
+          [
+            5.10638,
+            52.08981
+          ],
+          [
+            5.10642,
+            52.08977
+          ],
+          [
+            5.10645,
+            52.08973
+          ],
+          [
+            5.1064,
+            52.08968
+          ],
+          [
+            5.10587,
+            52.08951
+          ],
+          [
+            5.10587,
+            52.08951
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.10715,
+            52.09213
+          ],
+          [
+            5.10723,
+            52.09215
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.11707,
+            52.09345
+          ],
+          [
+            5.1171,
+            52.09345
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12158,
+            52.0931
+          ],
+          [
+            5.12162,
+            52.0931
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12702,
+            52.09281
+          ],
+          [
+            5.12704,
+            52.09281
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12741,
+            52.09224
+          ],
+          [
+            5.12742,
+            52.0922
+          ],
+          [
+            5.12756,
+            52.09176
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12956,
+            52.0849
+          ],
+          [
+            5.12956,
+            52.08489
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12544,
+            52.08369
+          ],
+          [
+            5.12541,
+            52.08368
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12392,
+            52.08185
+          ],
+          [
+            5.12392,
+            52.08184
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12155,
+            52.08012
+          ],
+          [
+            5.12154,
+            52.0801
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.12016,
+            52.07881
+          ],
+          [
+            5.12015,
+            52.07882
+          ],
+          [
+            5.11997,
+            52.07889
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.10654,
+            52.08986
+          ],
+          [
+            5.10653,
+            52.08986
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "6612",
+        "agency_id": "UOV",
+        "route_short_name": "2",
+        "route_long_name": "Ringlijn Museumkwartier",
+        "route_desc": "",
+        "route_type": 3,
+        "route_color": "",
+        "route_text_color": "",
+        "route_url": "http://u-ov.info/lijn/u002",
+        "agency_key": "openov",
+        "agency_name": "Wagenborg"
+      }
+    }
+  ]
+}

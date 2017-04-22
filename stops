@@ -1,0 +1,214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point"
+      },
+      "properties": {
+        "direction_id": "0",
+        "stops": [
+          {
+            "_id": "58fb0e3c2f2d4f6ebc981d7d",
+            "stop_id": "651270",
+            "stop_code": "",
+            "stop_name": "Utrecht, CS Jaarbeursplein (Perron G2)",
+            "stop_lat": 52.089225,
+            "stop_lon": 5.106136,
+            "location_type": 0,
+            "parent_station": "NL:S:50003001",
+            "stop_timezone": "",
+            "wheelchair_boarding": null,
+            "platform_code": "G2",
+            "agency_key": "openov",
+            "loc": [
+              5.106136,
+              52.089225
+            ]
+          },
+          {
+            "_id": "58fb0e3e2f2d4f6ebc9887ae",
+            "stop_id": "826456",
+            "stop_code": "",
+            "stop_name": "Utrecht, Vredenburg",
+            "stop_lat": 52.092944,
+            "stop_lon": 5.112985,
+            "location_type": 0,
+            "parent_station": "",
+            "stop_timezone": "",
+            "wheelchair_boarding": 0,
+            "platform_code": "",
+            "agency_key": "openov",
+            "loc": [
+              5.112985,
+              52.092944
+            ]
+          },
+          {
+            "_id": "58fb0e3c2f2d4f6ebc981fd7",
+            "stop_id": "650639",
+            "stop_code": "",
+            "stop_name": "Utrecht, Neude",
+            "stop_lat": 52.093504,
+            "stop_lon": 5.117812,
+            "location_type": 0,
+            "parent_station": "",
+            "stop_timezone": "",
+            "wheelchair_boarding": 1,
+            "platform_code": "",
+            "agency_key": "openov",
+            "loc": [
+              5.117812,
+              52.093504
+            ]
+          },
+          {
+            "_id": "58fb0e3c2f2d4f6ebc981f7a",
+            "stop_id": "650737",
+            "stop_code": "",
+            "stop_name": "Utrecht, Janskerkhof",
+            "stop_lat": 52.093165,
+            "stop_lon": 5.122776,
+            "location_type": 0,
+            "parent_station": "",
+            "stop_timezone": "",
+            "wheelchair_boarding": 1,
+            "platform_code": "",
+            "agency_key": "openov",
+            "loc": [
+              5.122776,
+              52.093165
+            ]
+          },
+          {
+            "_id": "58fb0e3c2f2d4f6ebc981f96",
+            "stop_id": "650709",
+            "stop_code": "",
+            "stop_name": "Utrecht, Herenbrug",
+            "stop_lat": 52.090247,
+            "stop_lon": 5.128381,
+            "location_type": 0,
+            "parent_station": "",
+            "stop_timezone": "",
+            "wheelchair_boarding": 0,
+            "platform_code": "",
+            "agency_key": "openov",
+            "loc": [
+              5.128381,
+              52.090247
+            ]
+          },
+          {
+            "_id": "58fb0e3c2f2d4f6ebc981f97",
+            "stop_id": "650708",
+            "stop_code": "",
+            "stop_name": "Utrecht, Het Spoorwegmuseum",
+            "stop_lat": 52.088721,
+            "stop_lon": 5.129441,
+            "location_type": 0,
+            "parent_station": "",
+            "stop_timezone": "",
+            "wheelchair_boarding": 0,
+            "platform_code": "",
+            "agency_key": "openov",
+            "loc": [
+              5.129441,
+              52.088721
+            ]
+          },
+          {
+            "_id": "58fb0e3c2f2d4f6ebc981f41",
+            "stop_id": "650799",
+            "stop_code": "",
+            "stop_name": "Utrecht, Abstederbrug",
+            "stop_lat": 52.084387,
+            "stop_lon": 5.128634,
+            "location_type": 0,
+            "parent_station": "",
+            "stop_timezone": "",
+            "wheelchair_boarding": 0,
+            "platform_code": "",
+            "agency_key": "openov",
+            "loc": [
+              5.128634,
+              52.084387
+            ]
+          },
+          {
+            "_id": "58fb0e3c2f2d4f6ebc981df2",
+            "stop_id": "651145",
+            "stop_code": "",
+            "stop_name": "Utrecht, Centraal Museum",
+            "stop_lat": 52.083507,
+            "stop_lon": 5.124846,
+            "location_type": 0,
+            "parent_station": "",
+            "stop_timezone": "",
+            "wheelchair_boarding": 1,
+            "platform_code": "",
+            "agency_key": "openov",
+            "loc": [
+              5.124846,
+              52.083507
+            ]
+          },
+          {
+            "_id": "58fb0e3c2f2d4f6ebc981e9c",
+            "stop_id": "650972",
+            "stop_code": "",
+            "stop_name": "Utrecht, Tolsteegbrug",
+            "stop_lat": 52.081645,
+            "stop_lon": 5.124055,
+            "location_type": 0,
+            "parent_station": "",
+            "stop_timezone": "",
+            "wheelchair_boarding": 0,
+            "platform_code": "",
+            "agency_key": "openov",
+            "loc": [
+              5.124055,
+              52.081645
+            ]
+          },
+          {
+            "_id": "58fb0e3d2f2d4f6ebc986b43",
+            "stop_id": "651361",
+            "stop_code": "",
+            "stop_name": "Utrecht, CS Jaarbeurszijde (Perron C6)",
+            "stop_lat": 52.088235,
+            "stop_lon": 5.109221,
+            "location_type": 0,
+            "parent_station": "NL:S:50000101",
+            "stop_timezone": "",
+            "wheelchair_boarding": 0,
+            "platform_code": "C6",
+            "agency_key": "openov",
+            "loc": [
+              5.109221,
+              52.088235
+            ]
+          },
+          {
+            "_id": "58fb0e3c2f2d4f6ebc981d81",
+            "stop_id": "651266",
+            "stop_code": "",
+            "stop_name": "Utrecht, CS Jaarbeursplein (Perron G9)",
+            "stop_lat": 52.089512,
+            "stop_lon": 5.105871,
+            "location_type": 0,
+            "parent_station": "NL:S:50003001",
+            "stop_timezone": "",
+            "wheelchair_boarding": null,
+            "platform_code": "G9",
+            "agency_key": "openov",
+            "loc": [
+              5.105871,
+              52.089512
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
